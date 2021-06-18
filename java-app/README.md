@@ -88,7 +88,7 @@ Finally, view the application in the Lambda console.
 1. Open the [applications page](https://console.aws.amazon.com/lambda/home#/applications) in the Lambda console.
 2. Choose **java-app**.
 
-  ![Application](/sample-apps/blank-java/images/blank-java-application.png)
+  ![Application](/java-app/images/blank-java-application.png)
 
 # Cleanup
 To delete the application, run `5-cleanup.sh`.
